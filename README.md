@@ -1,4 +1,4 @@
-![neuro_start_up_logo](C:\Users\Vica\Desktop\neuro_start_up\neuro_start_up\1.png)
+![neuro_start_up_logo](https://github.com/viktoria-sap/neuro_start_up/1.png)
 
 **NeuroStartUp** - динамически развивающийся стартап, специализирующийся на поиске с использованием новейших технологий искусственного интеллекта. 
 Наши преимущества:

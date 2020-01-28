@@ -1,7 +1,6 @@
-![neuro_start_up_logo](https://github.com/viktoria-sap/neuro_start_up/1.png)
-
 **NeuroStartUp** - динамически развивающийс€ стартап, специализирующийс€ на поиске с использованием новейших технологий искусственного интеллекта. 
 Ќаши преимущества:
 * ¬ысока€ точность поиска
 * ¬ысока€ скорость поиска
 * Ќизка€ цена
+![neuro_start_up_logo](https://github.com/viktoria-sap/neuro_start_up/1.png)
